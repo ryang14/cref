@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="grapevine" Version="4.1.2" />
     <PackageReference Include="Iot.Device.Bindings" Version="1.0.0" />
     <PackageReference Include="System.Device.Gpio" Version="1.0.0" />
   </ItemGroup>
